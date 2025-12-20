@@ -1,41 +1,26 @@
-# </> Abdullah Hamdan
 
-**`Highschool student`**
+# 👋 Hi, I'm Abdullah Hamdan!
+👩🏻‍💻 Highschool student sharing about his journey and learnings in tech<br/>
+🎨 Making videos about Computer Science, tech, and productivity on [YouTube](https://www.youtube.com/c/MagdelineHuang)<br/>
+💭 Currently learning about cybersecurity [dataviz](https://pudding.cool/2018/08/pockets/)!<br/>
 
-I'm Abdullah Hamdan self taught full stack web developer. Over the past years I have learned a lot of frameworks and built as well some big projects.
+<!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
+![](https://github-readme-stats.vercel.app/api?username=mrhamda&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
-   <p align="left">
-      <a href="https://mrhamda.github.io/self-portfilio/">
-         <img alt="portfolio" title="Visit my portfolio" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-      <a href="https://www.linkedin.com/in/abdullah-hamdan-b2ab463a0/">
-         <img alt="linkedin" title="Connect on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-   </p>
+# 💻 Tech Stack
+<!-- Badges from https://github.com/Ileriayo/markdown-badges -->
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
----
+# 💻 Featured YouTube Videos
 
-### 🛠️ Languages and Tools
+[![Spotify clone](https://ytcards.demolab.com/?id=UItfbdI0oNc&title=https://www.youtube.com/watch?v=g7I0Tu_WHcg=en&timestamp=1638183600&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=380 "Spotify clone")]([https://youtu.be/UItfbdI0oNc?si=mjrsewEwBdhtvzDX](https://www.youtube.com/watch?v=g7I0Tu_WHcg))
 
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
-<img align="left" alt="Tailwind" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />          
-<img align="left" alt="Bootstrap" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />  
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
-<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
-<img align="left" alt="Express" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"/>
-<img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
-<img align="left" alt="SocketIo" width="30px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/socketio/socketio-original.svg" />     
-<img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"/>
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"/>
-<img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
-<img align="left" alt="C#" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
-          
-<br />
-
-###  Stats
-
-![Abdullah's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrhamda&show_icons=true&theme=gruvbox)
+<!-- END YOUTUBE-CARDS -->
 
