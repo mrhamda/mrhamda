@@ -7,7 +7,7 @@ I'm Abdullah Hamdan self taught full stack web developer. Over the past years I 
    <p align="left">
       <a href="https://mrhamda.github.io/self-portfilio/">
          <img alt="portfolio" title="Visit my portfolio" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-      <a href="https://www.linkedin.com/in/adnan-hamdan-475b23375/">
+      <a href="https://www.linkedin.com/in/abdullah-hamdan-b2ab463a0/">
          <img alt="linkedin" title="Connect on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
    </p>
 
