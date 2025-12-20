@@ -1,8 +1,8 @@
 
 # 👋 Hi, I'm Abdullah Hamdan!
 👩🏻‍💻 Highschool student sharing about his journey and learnings in tech<br/>
-🎨 Making videos about Computer Science, tech, and productivity on [YouTube](https://www.youtube.com/c/MagdelineHuang)<br/>
-💭 Currently learning about cybersecurity [dataviz](https://pudding.cool/2018/08/pockets/)!<br/>
+🎨 Making videos about Computer Science, tech, and productivity on [YouTube]https://www.youtube.com/@melting3505<br/>
+💭 Currently learning about cybersecurity <br/>
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
 ![](https://github-readme-stats.vercel.app/api?username=mrhamda&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
