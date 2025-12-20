@@ -1,7 +1,7 @@
 
 # 👋 Hi, I'm Abdullah Hamdan!
 👩🏻‍💻 Highschool student sharing about his journey and learnings in tech<br/>
-🎨 Making videos about Computer Science, tech, and productivity on [YouTube]https://www.youtube.com/@melting3505<br/>
+🎨 Making videos about Computer Science, tech, and productivity on [YouTube](https://www.youtube.com/@melting3505)
 💭 Currently learning about cybersecurity <br/>
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
