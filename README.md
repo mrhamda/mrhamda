@@ -28,6 +28,7 @@
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) 
 ![Photon](https://img.shields.io/badge/Photon2-004488?style=for-the-badge&logo=photon&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=nodesodotjs&logoColor=white)
 
 # 💻 Featured YouTube Videos
 
