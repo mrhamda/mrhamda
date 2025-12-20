@@ -7,7 +7,6 @@
 ## 🔍 About Me
 - 🎓 **Portfolio:** Check out my projects and certifications [here](https://mrhamda.github.io/self-portfilio/).
 - 📝 You can find my latest security walkthroughs in my [Write_ups Repository](https://github.com/mrhamda/Write_ups).
-- 🎥 **Content Creator:** I make videos about my projects [YouTube](https://www.youtube.com/@melting3505).
 
 ## 📩 Connect With Me
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@melting3505)
