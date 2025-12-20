@@ -37,5 +37,5 @@ I'm Abdullah Hamdan self taught full stack web developer. Over the past years I 
 
 ###  Stats
 
-![Adnan's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrhamda&show_icons=true&theme=gruvbox)
+![Abdullah's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrhamda&show_icons=true&theme=gruvbox)
 
