@@ -6,7 +6,7 @@
 
 ## 🔍 About Me
 - 🎓 **Portfolio:** Check out my projects and certifications [here](https://mrhamda.github.io/self-portfilio/).
-- 📝 You can find my latest ctf walkthroughs in my [Write_ups Repository](https://github.com/mrhamda/Write_ups).
+- 📝 You can find my latest ctf walkthroughs in my [Write_ups](https://github.com/mrhamda/Write_ups).
 
 ## 📩 Connect With Me
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@melting3505)
