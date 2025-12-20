@@ -6,7 +6,7 @@
 
 ## 🔍 About Me
 - 🎓 **Portfolio:** Check out my projects and certifications [here](https://mrhamda.github.io/self-portfilio/).
-- 📝 You can find my latest ctf walkthroughs in my [Write_ups](https://github.com/mrhamda/Write_ups).
+- 📝 You can find my latest ctf walkthroughs in my [Write ups](https://github.com/mrhamda/Write_ups).
 - 📝 You can find my game projects here [Abdullah's itch.io](https://abdullahhamdan.itch.io).
 
 
