@@ -23,5 +23,8 @@
 [![Spotify Clone](https://ytcards.demolab.com/?id=g7I0Tu_WHcg&title=Spotify+Clone+ReactJS&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5)](https://www.youtube.com/watch?v=g7I0Tu_WHcg)
 [![A complicated restaurnt](https://ytcards.demolab.com/?id=MT4-hzXIIyw&title=A+complicated+restaurnt&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5)](https://www.youtube.com/watch?v=MT4-hzXIIyw)
 [![Light wizard](https://ytcards.demolab.com/?id=1dor57LQWSA&title=Light+wizard&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5)](https://www.youtube.com/watch?v=1dor57LQWSA)
+[![Mr. Strong](https://ytcards.demolab.com/?id=6p5u5-mRbfU&title=Mr.+Strong&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5)](https://www.youtube.com/watch?v=6p5u5-mRbfU)
+[![A basic portfilio](https://ytcards.demolab.com/?id=l5ypaXyKE30&title=A+basic+portfilio&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5)](https://www.youtube.com/watch?v=l5ypaXyKE30)
+[![A self portfilio example](https://ytcards.demolab.com/?id=2yfdsvVF6ck&title=A+self+portfilio+example&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5)](https://www.youtube.com/watch?v=2yfdsvVF6ck)
 <!-- END YOUTUBE-CARDS -->
 
