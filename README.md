@@ -2,7 +2,7 @@
 # 👋 Hi, I'm Abdullah Hamdan!
 👩🏻‍💻 Highschool student sharing about his journey and learnings in tech<br/>
 🎨 There are some showcases of my projects on my youtube account [YouTube](https://www.youtube.com/@melting3505)
-💭 Currently learning about cybersecurity and did some ctf writeup https://github.com/mrhamda/Write_ups <br/>
+💭 Currently learning about cybersecurity and writing CTF writeups: [mrhamda/Write_ups](https://github.com/mrhamda/Write_ups)
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
 ![](https://github-readme-stats.vercel.app/api?username=mrhamda&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
