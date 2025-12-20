@@ -20,7 +20,7 @@
 
 # 💻 Featured YouTube Videos
 
-[![Spotify clone](https://ytcards.demolab.com/?id=UItfbdI0oNc&title=https://www.youtube.com/watch?v=g7I0Tu_WHcg=en&timestamp=1638183600&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=380 "Spotify clone")]([https://youtu.be/UItfbdI0oNc?si=mjrsewEwBdhtvzDX](https://www.youtube.com/watch?v=g7I0Tu_WHcg))
+[![Spotify Clone](https://ytcards.demolab.com/?id=g7I0Tu_WHcg&title=Spotify+Clone+ReactJS&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5)](https://www.youtube.com/watch?v=g7I0Tu_WHcg)
 
 <!-- END YOUTUBE-CARDS -->
 
