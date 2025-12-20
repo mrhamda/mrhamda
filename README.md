@@ -21,6 +21,7 @@
 # 💻 Featured YouTube Videos
 
 [![Spotify Clone](https://ytcards.demolab.com/?id=g7I0Tu_WHcg&title=Spotify+Clone+ReactJS&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5)](https://www.youtube.com/watch?v=g7I0Tu_WHcg)
-
+[![A complicated restaurnt](https://ytcards.demolab.com/?id=MT4-hzXIIyw&title=A+complicated+restaurnt&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5)](https://www.youtube.com/watch?v=MT4-hzXIIyw)
+[![Light wizard](https://ytcards.demolab.com/?id=1dor57LQWSA&title=Light+wizard&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5)](https://www.youtube.com/watch?v=1dor57LQWSA)
 <!-- END YOUTUBE-CARDS -->
 
