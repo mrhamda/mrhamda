@@ -3,6 +3,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mrhamda&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mrhamda&label=Profile%20views&color=0e75b6&style=flat" alt="mrhamda" /> </p>
 
 ## 🔍 About Me
 - 🎓 **Portfolio:** Check out my projects and certifications [here](https://mrhamda.github.io/self-portfilio/).
