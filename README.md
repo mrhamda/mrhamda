@@ -3,7 +3,7 @@
 # 👋 Hi, I'm Abdullah Hamdan!
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mrhamda&theme=radical&include_all_commits=true&count_private=true&cache_seconds=86400" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrhamda&show_icons=true&locale=en" alt="github stats" />
 </p>
 
 ## 🔍 About Me
