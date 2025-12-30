@@ -1,25 +1,25 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrhamda&label=Profile%20views&color=0e75b6&style=flat" alt="mrhamda" /> </p>
 
-# 👋 Hi, I'm Abdullah Hamdan!
+# Hi, I'm Abdullah Hamdan!
 
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=mrhamda&show_icons=true&locale=en" alt="" />
 </p>
 
-## 🔍 About Me
+## About Me
 - 🎓 **Portfolio:** Check out my projects and certifications [here](https://mrhamda.github.io/self-portfilio/).
 - 📝 You can find my latest ctf walkthroughs in my [Write ups](https://github.com/mrhamda/Write_ups).
 - 🎮 You can find my game projects here [Abdullah's itch.io](https://abdullahhamdan.itch.io).
 
 
-## 📩 Connect With Me
+## Connect With Me
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@melting3505)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullah-hamdan-b2ab463a0)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mrhamda)
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
 ### Languages & Frontend
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -50,7 +50,7 @@
 
 ---
 
-## 🎥 Featured YouTube Videos
+## Featured YouTube Videos
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=g7I0Tu_WHcg">
