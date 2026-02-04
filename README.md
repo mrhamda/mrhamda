@@ -1,7 +1,5 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrhamda&label=Profile%20views&color=0e75b6&style=flat" alt="mrhamda" /> </p>
 
-# Hi, I'm Abdullah Hamdan!
-
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=mrhamda&show_icons=true&locale=en" alt="" />
 </p>
