@@ -6,7 +6,7 @@
 
 ## About Me
 - **Portfolio:** Check out my projects and certifications [here](https://self-portfilio.vercel.app).
-- You can find my latest ctf walkthroughs in my [Write ups](https://github.com/mrhamda/Write_ups).
+- You can find my latest ctf walkthroughs in my [Write ups](https://abha-blog-writeups.vercel.app).
 - You can find my game projects here [Abdullah's itch.io](https://abdullahhamdan.itch.io).
 
 
