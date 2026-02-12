@@ -1,12 +1,12 @@
 <table width="100%">
   <tr>
-    <td align="left" width="33%">
+    <td align="left" width="40%">
       <img src="https://streak-stats.demolab.com?user=mrhamda&theme=transparent" />
     </td>
-    <td align="center" width="34%">
+    <td align="center" width="20%">
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mrhamda&theme=transparent" />
     </td>
-    <td align="right" width="33%">
+    <td align="right" width="20%">
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mrhamda&theme=transparent" />
     </td>
   </tr>
