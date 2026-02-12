@@ -1,4 +1,5 @@
-![Mrhamda's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrhamda&show_icons=true&theme=transparent)
+![GitHub Streak](https://streak-stats.demolab.com?user=mrhamda&theme=transparent)
+
 
 
 <p align="center">
