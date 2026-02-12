@@ -1,4 +1,5 @@
-<p align="left">![Mrhamda's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrhamda&show_icons=true&theme=transparent) </p>
+![Mrhamda's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrhamda&show_icons=true&theme=transparent)
+
 
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=mrhamda&show_icons=true&locale=en" alt="" />
