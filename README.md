@@ -3,7 +3,7 @@
     <td align="left" width="20%">
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mrhamda&theme=transparent" />
     </td>
-    <td align="center" width="40%">
+    <td align="center" width="20%">
       <img src="https://streak-stats.demolab.com?user=mrhamda&theme=transparent" />
     </td>
     
