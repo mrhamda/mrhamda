@@ -1,5 +1,6 @@
-![GitHub Streak](https://streak-stats.demolab.com?user=mrhamda&theme=transparent)
-
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=mrhamda&theme=transparent" />
+</p>
 
 
 <p align="center">
