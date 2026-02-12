@@ -1,8 +1,7 @@
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=mrhamda&theme=transparent" />
+</p>
 
-    <p align="center" width="100%">
-      <img src="https://streak-stats.demolab.com?user=mrhamda&theme=transparent" />
-    </p>
-    
 
 
 ## About Me
