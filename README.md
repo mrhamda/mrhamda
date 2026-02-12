@@ -1,11 +1,17 @@
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=mrhamda&theme=transparent" />
-</p>
+<table align="center">
+  <tr>
+    <td align="left">
+      <img src="https://streak-stats.demolab.com?user=mrhamda&theme=transparent" />
+    </td>
+    <td align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mrhamda&theme=transparent" />
+    </td>
+    <td align="right">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mrhamda&theme=transparent" />
+    </td>
+  </tr>
+</table>
 
-
-<p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrhamda&show_icons=true&locale=en" alt="" />
-</p>
 
 ## About Me
 - **Portfolio:** Check out my projects and certifications [here](https://self-portfilio.vercel.app).
