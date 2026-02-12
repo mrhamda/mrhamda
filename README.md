@@ -1,18 +1,17 @@
-
-<table align="center">
+<table width="100%">
   <tr>
-    <td align="left">
+    <td align="left" width="33%">
+      <img src="https://streak-stats.demolab.com?user=mrhamda&theme=transparent" />
+    </td>
+    <td align="center" width="34%">
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mrhamda&theme=transparent" />
     </td>
-
-    <td align="center">
-              <img src="https://streak-stats.demolab.com?user=mrhamda&theme=transparent" />
-    </td>
-    <td align="right">
+    <td align="right" width="33%">
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mrhamda&theme=transparent" />
     </td>
   </tr>
 </table>
+
 
 ## About Me
 - **Portfolio:** Check out my projects and certifications [here](https://self-portfilio.vercel.app).
