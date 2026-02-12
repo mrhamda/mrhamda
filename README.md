@@ -1,13 +1,8 @@
-<table width="100%">
-  <tr>
-  
-    <td align="center" width="100%">
+
+    <p align="center" width="100%">
       <img src="https://streak-stats.demolab.com?user=mrhamda&theme=transparent" />
-    </td>
+    </p>
     
-  
-  </tr>
-</table>
 
 
 ## About Me
