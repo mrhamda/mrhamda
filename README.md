@@ -1,10 +1,11 @@
 <table align="center">
   <tr>
     <td align="left">
-      <img src="https://streak-stats.demolab.com?user=mrhamda&theme=transparent" />
-    </td>
-    <td align="center">
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mrhamda&theme=transparent" />
+    </td>
+
+    <td align="center">
+              <img src="https://streak-stats.demolab.com?user=mrhamda&theme=transparent" />
     </td>
     <td align="right">
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mrhamda&theme=transparent" />
