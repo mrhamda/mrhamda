@@ -1,3 +1,6 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mrhamda&label=Profile%20views&color=0e75b6&style=flat" alt="mrhamda" /> </p>
+
+
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=mrhamda&theme=transparent" />
 </p>
