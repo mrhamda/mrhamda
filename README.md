@@ -13,10 +13,6 @@
 - You can find my game projects here [Abdullah's itch.io](https://abdullahhamdan.itch.io).
 
 
-## Connect With Me
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@melting3505)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullah-hamdan-b2ab463a0)
-
 ---
 
 ## Tech Stack
